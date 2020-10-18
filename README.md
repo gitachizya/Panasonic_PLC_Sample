@@ -1,3 +1,3 @@
-# Nwitter
+# Panasonic_PLC_Sample
 
-Twitter (mini)clone with React and Firebase
+Panasonic_PLC_Sample with React and Firebase
