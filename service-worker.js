@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Panasonic_PLC_Sample/precache-manifest.029a81801779f2c3b52109601da38e96.js"
+  "/Panasonic_PLC_Sample/precache-manifest.28cb66ef517abc8b46ca4fe30ce85153.js"
 );
 
 self.addEventListener('message', (event) => {
